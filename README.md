@@ -5,3 +5,4 @@ it should run just with a python (≤3.6) interpreter, as follows:
 `python3 <file/path.py>`
 
 for info on the controls you can press 'h' when running it, but most of them are intuitive.
+or you can look at the help.txt file.
