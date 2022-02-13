@@ -1,0 +1,34 @@
+
+Hello, this document contains help with using the Etch-A-Sketch!
+
+<=============================================================================================>
+
+H  = Help, opens this page.
+
+A  =  Rotates pen control by 45° Counter-Clockwise. 
+(Toggleable)
+
+D =  Similar to A, rotates pen control by 45° Clockwise. 
+(Toggleable)
+
+S  =  Sprint, Increases the distance drawn by the pen by 5x. 
+(Toggleable)
+
+E  =  Eraser, changes pen to an eraser, redraw over lines to remove them, although there 
+is a bug in which it doesn't work completely while A or D is activated. 
+(Toggleable)
+
+C  =  Disables pen drawing, which admittedly is unrealistic for an Etch-A-Sketch. 
+(Toggleable)
+
+V = Fill mode, increases width of the pen/drawing dot enough to completely fill squares.
+(Toggleable)
+
+Spacebar  =  Shakes the Etch-A-Sketch, therefore clearing it, don't press this 
+accidentally! 
+
+ Escape = Closes the program
+
+<=============================================================================================>
+
+Enjoy using the most cursed drawing tool ever!
